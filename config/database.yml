@@ -3,25 +3,25 @@ development:
   pool: 5
   # these are our new parameters
   encoding: UTF-8
-  database: toyappDb
+  database: rails_sample_app
   host: localhost
-  username: rajeshkumar
+  username: rajesh
   password: 12345
 
 test:
   # this won't work
   adapter: postgresql
   encoding: unicode
-  database: toyappDb
+  database: rails_sample_app
   pool: 5
-  username: rajeshkumar
+  username: rajesh
   password: 12345
 
 production:
   # this won't work
   adapter: postgresql
   encoding: unicode
-  database: my_application_production
+  database: rails_sample_app
   pool: 5
-  username: my_application
+  username: rajesh
   password:

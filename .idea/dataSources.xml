@@ -7,7 +7,7 @@
       <imported>true</imported>
       <remarks>$PROJECT_DIR$/config/database.yml</remarks>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
-      <jdbc-url>jdbc:postgresql://127.0.0.1/toyappDb</jdbc-url>
+      <jdbc-url>jdbc:postgresql://127.0.0.1/rails_sample_app</jdbc-url>
       <explain-plan-config>
         <provider>com.intellij.database.plan.ExplainPlanProvider.NullExplainPlanProvider</provider>
       </explain-plan-config>
@@ -18,7 +18,7 @@
       <imported>true</imported>
       <remarks>$PROJECT_DIR$/config/database.yml</remarks>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
-      <jdbc-url>jdbc:postgresql:toyappDb</jdbc-url>
+      <jdbc-url>jdbc:postgresql:rails_sample_app</jdbc-url>
     </data-source>
     <data-source source="LOCAL" name="Rails rails_simple_app: production" uuid="6c5f11c2-8cc9-477e-962f-58c9bc896b2a">
       <driver-ref>postgresql</driver-ref>
@@ -26,7 +26,7 @@
       <imported>true</imported>
       <remarks>$PROJECT_DIR$/config/database.yml</remarks>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
-      <jdbc-url>jdbc:postgresql:my_application_production</jdbc-url>
+      <jdbc-url>jdbc:postgresql:rails_sample_app</jdbc-url>
     </data-source>
   </component>
 </project>

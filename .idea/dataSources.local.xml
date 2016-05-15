@@ -3,15 +3,15 @@
   <component name="dataSourceStorageLocal">
     <data-source name="Rails rails_simple_app: development" uuid="eb7b9a30-2628-4047-878a-e5fcde28e6cd">
       <first-sync>true</first-sync>
-      <user-name>rajeshkumar</user-name>
+      <user-name>rajesh</user-name>
       <user-password>df9bdf98df99df9edf9f</user-password>
     </data-source>
     <data-source name="Rails rails_simple_app: test" uuid="58901b40-a7e8-41d8-b778-8595b1d45ab7">
-      <user-name>rajeshkumar</user-name>
+      <user-name>rajesh</user-name>
       <user-password>df9bdf98df99df9edf9f</user-password>
     </data-source>
     <data-source name="Rails rails_simple_app: production" uuid="6c5f11c2-8cc9-477e-962f-58c9bc896b2a">
-      <user-name>my_application</user-name>
+      <user-name>rajesh</user-name>
     </data-source>
   </component>
 </project>
